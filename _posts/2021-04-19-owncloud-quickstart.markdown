@@ -16,7 +16,7 @@ ownCloud includes the ownCloud server, which runs on Linux platform, client appl
 
 ## Getting Started
 This quickstart guide will provide the user a concise step-based approach to the following user stories:
-* [Installing and Configuring Owncloud server]
+* [Installing and Configuring Owncloud server](https://github.com/sindhu4512/project/blob/main/_pages/1-installing-owncloud.markdown)
 * [Enabling Users to Connect to Owncloud server Using the Server's IP address and Port 8080]
 * [Adding User Accounts]
 * [Connecting to Owncloud server Using Desktop Client]
